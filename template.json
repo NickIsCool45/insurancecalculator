@@ -1,0 +1,20 @@
+{
+  "householdIncome": "value",
+  "applicant": {
+    "age": "value",
+    "dob": "value",
+    "smoker": "value",
+    "gender": "value",
+    "zip": "value"
+  },
+  "family": [
+    {
+      "age": "value",
+      "dob": "value",
+      "smoker": "value",
+      "gender": "value",
+      "zip": "value",
+      "relationship": "value"
+    }
+  ]
+}
